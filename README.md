@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @jones855
 
-💻 I'm currently a Computer Science student at [Babcock University] in [Ogun state, Nigeria].
+💻 I'm currently a Computer Science student.
 
 🌱 I'm interested in exploring areas like -Web Development, Cybersecurity, Data Science.
+
+💻 ui/ux Front-end Developer[HTML,CSS,JS]
 
 📚 I'm currently learning:
 - C++
